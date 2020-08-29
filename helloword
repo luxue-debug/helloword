@@ -1,7 +1,9 @@
 <html>
-<div>
-console.log("helloword")
+<body>
+<script>
+console.log("helloword")</script>
 
-</div>
+
+<body>
 
 </html>
